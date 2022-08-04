@@ -1,0 +1,3 @@
+2022-08-03T08:32:04+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Google account is not connected.
+2022-08-03T13:23:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Coupon\CouponHelper::get_channel_visibility Channel visibility forced to "dont-sync-and-show" for visibility unknown (Post ID: 114).
+2022-08-03T13:24:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Coupon\CouponHelper::get_channel_visibility Channel visibility forced to "dont-sync-and-show" for visibility unknown (Post ID: 114).
